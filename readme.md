@@ -5,7 +5,7 @@
 
 ## Parte I - Implementação da RAM 32x4:
 
-  Criamos um projeto no Quartus para implementar a RAM 32x4. Nesta parte usamos a RAM: 1-PORT com blocos M10K, compilamos e testamos.
+  Criamos um projeto no Quartus para implementar a RAM 32x4. Nesta parte usamos a RAM: 1-PORT com blocos M10K. O bloco de memória foi compilado para testar sua validade.
 
 ## Parte II - Teste na FPGA:
 

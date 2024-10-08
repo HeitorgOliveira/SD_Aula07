@@ -1,7 +1,7 @@
 # Aula 7 - Memória
 
 ## Introdução
-  Este trabalho visa implementar blocos de memória em uma FPGA e tem como objetivo simular e testar um bloco de memória RAM 32x4.
+  Este trabalho visa implementar blocos de memória em uma FPGA e tem como objetivo simular e testar um bloco de memória RAM 32x4.<br>
   <img src="imgs/p1f1">
   <br>
   <img src="imgs/p1f2">

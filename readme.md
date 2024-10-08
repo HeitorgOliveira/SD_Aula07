@@ -2,6 +2,9 @@
 
 ## Introdução
   Este trabalho visa implementar blocos de memória em uma FPGA e tem como objetivo simular e testar um bloco de memória RAM 32x4.
+  <img src="imgs/p1f1">
+  <br>
+  <img src="imgs/p1f2">
 
 ## Parte I - Implementação da RAM 32x4:
 
